@@ -1,7 +1,8 @@
-import React from 'react'
+import React from "react";
 
-function Heading() {
+export const Heading = () => {
     return (
         <h1>Welcome to our Site.</h1>
     )
 }
+
